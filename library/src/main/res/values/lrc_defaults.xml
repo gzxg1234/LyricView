@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_sentence_margin">10dp</dimen>
+    <dimen name="default_sentence_text_size">12sp</dimen>
+    <color name="default_sentence_text_color">#88000000</color>
+    <dimen name="default_current_sentence_text_size">14sp</dimen>
+    <color name="default_current_sentence_text_color">#FF000000</color>
+</resources>
